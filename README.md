@@ -14,7 +14,7 @@ Please do follow my blog for the weekly new topics to learn. Recently Started to
 their code fast and intresting.
 
 - 💼 I'm currently working on sharing knowledge
-- 👀 I’m interested in 
+- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Mastering Neural Networks
 - 💞️ I’m looking to collaborate on programming blog or a podcast
 - 📫 How to reach me: ![Mail]('venkateshtantravahi99@gmail.com')  ![Personal_Blog]('https://venkatesht.hashnode.dev/')
