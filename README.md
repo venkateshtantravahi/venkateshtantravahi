@@ -8,7 +8,7 @@ I'm a ![Research Engineer1 at Jukshio]() focusing on mastering machine learning 
 Please do follow my blog for the weekly new topics to learn. Recently Started to build a course on data_structures and algorithms that help starters to gain some knowledge to keep 
 their code fast and intresting.
 
-## I'm a Junior Developer, and Teacher!!
+## I'm a Developer, and Teacher!!
 
 - 🙋 Ask me about Python, Machine Learning, Web Development
 - 🌱 I’m currently learning everything 🤣
