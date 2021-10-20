@@ -1,46 +1,62 @@
-### Hi there, I'm Venkatesh 👋
+#### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+<br />
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://www.linkedin.com/in/venkateshtantravahi/">
+  <img align="left" alt="Venkatesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://stackoverflow.com/users/15433787/venkatesh">
+  <img align="left" alt="Venkatesh's Stackoverflow" width="22px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" />
+</a>
+<a href="https://venkateshtantravahi.github.io/Portfolio/">
+  <img align="left" alt="Venkatesh's Portfolio" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Blogger_icon.svg/2048px-Blogger_icon.svg.png" />
+</a>
+<a href="https://www.hackerrank.com/venkateshtantra1">
+<img align="left" alt="Venkatesh's Hackerank" width="30px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" />
+</a>
 
-[![Website](https://img.shields.io/website?label=Venkatesh.com&style=for-the-badge&url=https%3A%2F%2Fvenkatesht.hashnode.dev)](https://venkatesht.hashnode.dev/)
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-
-## About me
-I'm a ![Research Engineer1 at Jukshio]() focusing on mastering machine learning applications.Ex FullStack WebDeveloper in a start-up.I do a lot of ![Python]() typing and love to share knowledge by writting articles in my blog.
-Please do follow my blog for the weekly new topics to learn. Recently Started to build a course on data_structures and algorithms that help starters to gain some knowledge to keep 
-their code fast and intresting.
-
-## I'm a Developer, and Teacher!!
-
-- 🙋 Ask me about Python, Machine Learning, Web Development
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- 😄 Pronoun: he/him
-- ⚡ Fun fact: I love to spread knowledge and learn more!
-
-### Connect with me:
-
-[<img align="left" alt="venkatesh.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="venkatesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt ="Venkatesh | GMail" Width="22px" src="https://simpleicons.org/icons/gmail.svg" />][gmail]
+![](https://visitor-badge.glitch.me/badge?page_id=venkateshtantravahi)
 
 <br />
+
+## About Me
+
+Hi, I'm Venkatesh Tantravahi a  passionate self taught developer and a freelance tutor based out of India. 
+Currently I'm a SAP Analyst at Capgemini, Python Tutor and Ex-Research Engineer focused on mastering machine learning applications.I do a lot of Python typing and love to share knowledge by writting articles in my blog.
+
+I am also an open-source enthusiast. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+![code](https://user-images.githubusercontent.com/64308188/138073977-df8dccb1-b653-42be-8150-47f58dfd199b.gif)
+
+  
+- 💼 any freelance work? do reach, [email](mailto:venkateshtantravahi99@gmail.com) 😏
+- 💬 ask me about anything, i am happy to help;
+-  🌱 I’m currently learning everything 🤣
+😄 Pronoun: he/him
+- ⚡ Fun fact: I love to spread knowledge and learn more!
 
 ### Languages and Tools:
 
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="40">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/>
-<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/flask-512.png" height="40">
+<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/152320780/original/56b063720cf4be2c872d048ff31597df790d71ff/do-sap-abap-development-and-support.jpg" alt="SAP ABAP" width="40" height="40">
+
+<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="40">
+
+<img src="https://dynamoinfotech.com/wp-content/uploads/2018/04/S4_HANA_Logo.jpg" height="40">
 <img src="https://icon-library.com/images/django-icon/django-icon-8.jpg" height="40"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/>
 <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png" height="40">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
+
 </p>
 
 <br />
 <br />
+
 
 ---
 
