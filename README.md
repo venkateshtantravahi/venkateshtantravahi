@@ -6,14 +6,8 @@
 <a href="https://www.linkedin.com/in/venkateshtantravahi/">
   <img align="left" alt="Venkatesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://stackoverflow.com/users/15433787/venkatesh">
-  <img align="left" alt="Venkatesh's Stackoverflow" width="22px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" />
-</a>
 <a href="https://venkateshtantravahi.github.io/Portfolio/">
   <img align="left" alt="Venkatesh's Portfolio" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Blogger_icon.svg/2048px-Blogger_icon.svg.png" />
-</a>
-<a href="https://www.hackerrank.com/venkateshtantra1">
-<img align="left" alt="Venkatesh's Hackerank" width="30px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=venkateshtantravahi)
