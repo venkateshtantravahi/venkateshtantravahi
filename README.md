@@ -71,3 +71,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 [website]: https://venkatesht.hashnode.dev/
 [gmail]: venkateshtantravahi99@gmail.com
 [linkedin]: https://linkedin.com/in/venkateshtantravahi
+
+![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=venkateshtantravahi&show_icons=true&theme=radical)
+
