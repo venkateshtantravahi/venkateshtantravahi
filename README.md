@@ -17,7 +17,7 @@
 ## About Me
 
 Hi, I'm Venkatesh Tantravahi a  passionate self taught developer and a freelance tutor based out of India. 
-Currently I'm a SAP Analyst at Capgemini, Python Tutor and Ex-Research Engineer focused on mastering machine learning applications.I do a lot of Python typing and love to share knowledge by writting articles in my blog.
+Currently I'm a Software Developer at Capgemini, Python Tutor and Ex-Research Engineer(Software Engineer) focused on mastering machine learning applications.I do a lot of Python typing and love to share knowledge by writting articles in my blog.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
@@ -26,8 +26,8 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
   
 - 💼 any freelance work? do reach, [email](mailto:venkateshtantravahi99@gmail.com) 😏
 - 💬 ask me about anything, i am happy to help;
--  🌱 I’m currently learning everything 🤣
-😄 Pronoun: he/him
+- 🌱 I’m currently learning everything 🤣
+- 😄 Pronoun: he/him
 - ⚡ Fun fact: I love to spread knowledge and learn more!
 
 ### Languages and Tools:
