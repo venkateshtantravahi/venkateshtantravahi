@@ -1,61 +1,117 @@
-#### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-<br />
-<a href="https://discord.gg/WVbk79e6nh">
-  <img align="left" alt="Venkatesh's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/venkateshtantravahi/">
-  <img align="left" alt="Venkatesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://vtantravahi.medium.com/">
-  <img align="left" alt="Venkatesh's Blog" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Blogger_icon.svg/2048px-Blogger_icon.svg.png" />
-</a>
+<h1 align="center">Hi 👋, I'm Venkatesh </h1>
+<p><img src="https://user-images.githubusercontent.com/64308188/162163951-a7d53660-e175-4e41-bdcc-08a589e32d96.png"></p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=venkateshtantravahi)
+<br>
 
-<br />
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=venkateshtantravahi&label=Profile%20views&color=0e75b6&style=flat"
+    alt="venkateshtantravahi" /> 
+  </p>
 
-## About Me
+<br>
 
-Hi, I'm Venkatesh Tantravahi a  passionate self taught developer and a freelance tutor based out of India. 
-Currently I'm a Software Developer at Capgemini, Python Tutor and Ex-Research Engineer(Software Engineer) focused on mastering machine learning applications.I do a lot of Python typing and love to share knowledge by writting articles in my blog.
-
-I am also an open-source enthusiast. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-![code](https://user-images.githubusercontent.com/64308188/138073977-df8dccb1-b653-42be-8150-47f58dfd199b.gif)
-
-  
 - 💼 any freelance work? do reach, [email](mailto:venkateshtantravahi99@gmail.com) 😏
 - 💬 ask me about anything, i am happy to help;
 - 🌱 I’m currently learning everything 🤣
 - 😄 Pronoun: he/him
 - ⚡ Fun fact: I love to spread knowledge and learn more!
 
-### Languages and Tools:
+<br>
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/>
-<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/152320780/original/56b063720cf4be2c872d048ff31597df790d71ff/do-sap-abap-development-and-support.jpg" alt="SAP ABAP" width="40" height="40">
-
-<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="40">
-
-<img src="https://dynamoinfotech.com/wp-content/uploads/2018/04/S4_HANA_Logo.jpg" height="40">
-<img src="https://icon-library.com/images/django-icon/django-icon-8.jpg" height="40"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/>
-<img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png" height="40">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-
+  <a href="https://www.linkedin.com/in/venkateshtantravahi/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="venkatesh tantravahi" height="30" width="40" /></a> 
+  <a href="https://discord.gg/WVbk79e6nh" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+      alt="venkatesh tantravahi" height="30" width="40" /></a> 
+  <a href="https://www.hackerrank.com/venkateshtantra1" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="venkateshtantra1" height="30" width="40" /></a> 
+  <a href="https://stackoverflow.com/users/15433787/venkatesh" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+      alt="venkateshtantra1" height="30" width="40" /></a>
+ <a href="https://vtantravahi.medium.com/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+      alt="vtantravahi" height="30" width="40" /></a> 
 </p>
 
-<br />
-<br />
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python" width="40" height="40" /> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c" width="40" height="40" /> </a>
+  <a href="https://en.wikipedia.org/wiki/ABAP" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64308188/162176874-0ac8f241-f307-40f2-a0ff-a48090521f83.png" alt="abap" width="40" height="40" /> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+      alt="pandas" width="40" height="40" /> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
+      alt="numpy" width="40" height="40" /> </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"
+      alt="jupyter" width="40" height="40" /> </a>
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"
+      alt="anaconda" width="40" height="40" /> </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
+      alt="django" width="40" height="40" /> </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"
+      alt="fastapi" width="40" height="40" /> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+      alt="mysql" width="40" height="40" /> </a>
+  <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg"
+      alt="sqlalchemy" width="40" height="40" /> </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"
+      alt="sqlite" width="40" height="40" /> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+      alt="css3" width="40" height="40" /> </a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+      alt="html5" width="40" height="40" /> </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+      alt="github" width="40" height="40" /> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+      alt="vscode" width="40" height="40" /> </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"
+      alt="canva" width="40" height="40" /> </a>
+</p>
+
+<br>
+
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=venkateshtantravahi&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="venkateshtantravahi" 
+    bg_color=#808080/></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkateshtantravahi&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="venkateshtantravahi" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkateshtantravahi&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="venkateshtantravahi" /></p>
+
+<br>
 
 
----
-
-
-### 📕 Latest Blog Posts
+<h3>📕 Latest Blog Posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [How computer memory works](https://vtantravahi.medium.com/how-computer-memory-works-c4eac0f0b3d3)
@@ -65,11 +121,10 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 ➡️ [more blog posts...](https://medium.com/@vtantravahi)
 
----
+<br>
+<h3>Trophies :-</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+      src="https://github-profile-trophy.vercel.app/?username=venkateshtantravahi&bg_color=0d1117&text_color=ffffff" alt="adam-pw" /></a> </p> 
 
-[website]: https://medium.com/@vtantravahi
-[gmail]: venkateshtantravahi99@gmail.com
-[linkedin]: https://linkedin.com/in/venkateshtantravahi
-
-![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=venkateshtantravahi&show_icons=true&theme=radical)
+<br />
 
