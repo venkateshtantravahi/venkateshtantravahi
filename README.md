@@ -6,8 +6,8 @@
 <a href="https://www.linkedin.com/in/venkateshtantravahi/">
   <img align="left" alt="Venkatesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://venkateshtantravahi.github.io/Portfolio/">
-  <img align="left" alt="Venkatesh's Portfolio" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Blogger_icon.svg/2048px-Blogger_icon.svg.png" />
+<a href="https://vtantravahi.medium.com/">
+  <img align="left" alt="Venkatesh's Blog" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Blogger_icon.svg/2048px-Blogger_icon.svg.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=venkateshtantravahi)
@@ -58,17 +58,16 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How computer memory works](https://venkatesht.hashnode.dev/how-computer-memory-works)
-- [Machine Learning](https://venkatesht.hashnode.dev/machine-learning)
-- [Deep Learning](https://venkatesht.hashnode.dev/deep-learning)
-- [What is Data Visualization](https://venkatesht.hashnode.dev/what-is-data-visualization)
+- [How computer memory works](https://vtantravahi.medium.com/how-computer-memory-works-c4eac0f0b3d3)
+- [Programming Language](https://vtantravahi.medium.com/programming-language-2f428f09adf5)
+- [Confusion Matrix](https://vtantravahi.medium.com/confusion-matrix-96fb002e13d1)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://venkatesht.hashnode.dev/)
+➡️ [more blog posts...](https://medium.com/@vtantravahi)
 
 ---
 
-[website]: https://venkatesht.hashnode.dev/
+[website]: https://medium.com/@vtantravahi
 [gmail]: venkateshtantravahi99@gmail.com
 [linkedin]: https://linkedin.com/in/venkateshtantravahi
 
