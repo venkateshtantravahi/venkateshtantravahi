@@ -96,7 +96,7 @@ $ cat professional-summary.txt
 ### 📅 GitHub Activity Calendar
 
 <p align="center">
-  <img src="https://github.com/venkateshtantravahi/venkateshtantravahi/blob/main/assets/github-calendar.svg" alt="GitHub Activity Calendar" />
+  <img src="https://ghchart.rshah.org/venkateshtantravahi" alt="GitHub chart" />
 </p>
 
 
